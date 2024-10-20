@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DWhats</string>
+    <string name="add_number">Add Number</string>
+    <string name="message">Message</string>
+</resources>
